@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1718331952 source:c:\users\eduardo\documents\dominios\data\teste_data.cpp
+	"teste_data.h"
+
+1718160162 c:\users\eduardo\documents\dominios\data\teste_data.h
+	"data.h"
+
+1718160795 c:\users\eduardo\documents\dominios\data\data.h
+	<stdexcept>
+	<string>
+
+1718161627 source:c:\users\eduardo\documents\dominios\data\data.cpp
+	"data.h"
+	<iostream>
+	<sstream>
+
+1718161915 source:c:\users\eduardo\documents\dominios\data\data_main.cpp
+	<iostream>
+	"C:\Users\Eduardo\Documents\DOMINIOS\data\data.h"
+	"C:\Users\Eduardo\Documents\DOMINIOS\data\teste_data.h"
+

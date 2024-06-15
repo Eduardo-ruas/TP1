@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1718148487 source:c:\users\eduardo\documents\dinheiro\estado\estado.cpp
+	"estado.h"
+	<string>
+
+1718148226 c:\users\eduardo\documents\dinheiro\estado\estado.h
+	<iostream>
+	<stdexcept>
+
+1718148517 source:c:\users\eduardo\documents\dinheiro\estado\main_estado.cpp
+	<iostream>
+	"C:/Users/Eduardo/Documents/dinheiro/Estado/estado.h"
+	"C:/Users/Eduardo/Documents/dinheiro/Estado/teste_estado.h"
+
+1718148030 c:\users\eduardo\documents\dinheiro\estado\teste_estado.h
+	"estado.h"
+
+1718148653 source:c:\users\eduardo\documents\dinheiro\estado\teste_estado.cpp
+	"teste_estado.h"
+
+1718148487 source:c:\users\eduardo\documents\dominios\estado\estado.cpp
+	"estado.h"
+	<string>
+
+1718148226 c:\users\eduardo\documents\dominios\estado\estado.h
+	<iostream>
+	<stdexcept>
+
+1718148517 source:c:\users\eduardo\documents\dominios\estado\main_estado.cpp
+	<iostream>
+	"C:/Users/Eduardo/Documents/dinheiro/Estado/estado.h"
+	"C:/Users/Eduardo/Documents/dinheiro/Estado/teste_estado.h"
+
+1718148653 source:c:\users\eduardo\documents\dominios\estado\teste_estado.cpp
+	"teste_estado.h"
+
+1718148030 c:\users\eduardo\documents\dominios\estado\teste_estado.h
+	"estado.h"
+

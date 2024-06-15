@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1718137144 source:c:\users\eduardo\documents\dinheiro\dinheiro\dinheiro.cpp
+	"dinheiro.h"
+
+1718137130 c:\users\eduardo\documents\dinheiro\dinheiro\dinheiro.h
+	<stdexcept>
+
+1718146154 source:c:\users\eduardo\documents\dinheiro\dinheiro\main_dinheiro.cpp
+	<iostream>
+	"C:/Users/Eduardo/Documents/dinheiro/dinheiro/dinheiro.h"
+	"C:/Users/Eduardo/Documents/dinheiro/dinheiro/teste_dinheiro.h"
+
+1718136172 c:\users\eduardo\documents\dinheiro\dinheiro\dinheiro.cpp
+	"dinheiro.h"
+
+1718135237 c:\users\eduardo\documents\dinheiro\dinheiro\teste_dinheiro.cpp
+	"teste_dinheiro.h"
+
+1718137131 c:\users\eduardo\documents\dinheiro\dinheiro\teste_dinheiro.h
+	"dinheiro.h"
+
+1718146478 source:c:\users\eduardo\documents\dinheiro\dinheiro\teste_dinheiro.cpp
+	"teste_dinheiro.h"
+
